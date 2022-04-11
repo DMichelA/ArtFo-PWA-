@@ -1,0 +1,57 @@
+{
+    "pictureinfo": [{
+        "nombre": "La Gioconda o Monna Lisa",
+        "artista": "Leonardo da Vinci",
+        "tamaño": "77 cm x 53 cm",
+        "ubicacion": "Museo del Louvre",
+        "fechaCreación": 1503
+    }, {
+        "nombre": "La noche estrellada",
+        "artista": "Vincent van Gogh",
+        "tamaño": "74 cm x 92 cm",
+        "ubicacion": "MoMA",
+        "fechaCreación": 1889
+    }, {
+        "nombre": "Guernica",
+        "artista": "Pablo Picasso",
+        "tamaño": "3,49 m x 7,77 m",
+        "ubicacion": "Museo Nacional Centro de Arte Reina Sofía",
+        "fechaCreación": 1937
+    }, {
+        "nombre": "El nacimiento de Venus",
+        "artista": "Sandro Botticelli",
+        "tamaño": "1,72 m x 2,78 m",
+        "ubicacion": "Galeria degli Uffizi",
+        "fechaCreación": 1486
+    }, {
+        "nombre": "El beso",
+        "artista": "Gustav Klimt",
+        "tamaño": "1,8 m x 1,8 m",
+        "ubicacion": "Galería Belvedere",
+        "fechaCreación": 1908
+    },{
+        "nombre": "Las meninas",
+        "artista": "Diego Velázquez",
+        "tamaño": "3,18 m x 2,76 m",
+        "ubicacion": "Museo Nacional del Prado",
+        "fechaCreación": 1656
+    },{
+        "nombre": "La última cena",
+        "artista": "Leonardo da Vinci",
+        "tamaño": "4,6 m x 8,8 m",
+        "ubicacion": "Santa Maria delle Grazie",
+        "fechaCreación": 1498
+    },{
+        "nombre": "La persistencia de la memoria",
+        "artista": "Salvador Dalí",
+        "tamaño": "24 cm x 33 cm",
+        "ubicacion": "MoMA",
+        "fechaCreación": 1931
+    },{
+        "nombre": "La Libertad guiando al pueblo",
+        "artista": "Eugène Delacroix",
+        "tamaño": "2,6 m x 3,25 m",
+        "ubicacion": "Museo del Louvre",
+        "fechaCreación": 1830
+    }]
+}
